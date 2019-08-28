@@ -1,4 +1,4 @@
-OMERO.fpbioimage
+OMERO.FPBioimage
 ================
 
 Contents:
