@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OMERO.fpbioimage guide'
+project = u'OMERO.FPBioimage guide'
 copyright = u'2019, Open Microscopy Environment'
 
 # The version info for the project you're documenting, acts as replacement for
