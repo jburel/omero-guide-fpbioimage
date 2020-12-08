@@ -1,4 +1,13 @@
-# This is a template useful to create guides
+# User guide for OMERO.fpbioimage
+[![Documentation Status](https://readthedocs.org/projects/omero-guide-fpbioimage/badge/?version=latest)](https://omero-guides.readthedocs.io/en/latest/fpbioimage/docs/index.html)
+
+
+[![Actions Status](https://github.com/ome/omero-guide-fpbioimage/workflows/sphinx/badge.svg)](https://github.com/ome/omero-guide-fpbioimage/actions)
+
+The documentation is deployed at [How to use OMERO.fpbioimage](https://omero-guides.readthedocs.io/en/latest/fpbioimage/docs/index.html).
+
+This guide demonstrates how to use the User Interface of the OMERO.fpbioimage web app.
+
 
 This a Sphinx based documentation. 
 If you are unfamiliar with Sphinx, we recommend that you first read 
